@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O GEFY é um sistema de gestão de funcionários que permite aos gestores gerir de forma eficiente as informações de seus colaboradores, tais como dados pessoais, histórico de emprego, habilidades, certificações, treinamentos e muito mais. Além disso, o sistema oferece uma plataforma de comunicação para os gestores e colaboradores, permitindo a troca de informações e o gerenciamento de tarefas de forma eficaz.
+O Gefy é um sistema de gestão de delivery voltado para pequenos empreendedores que desejam melhorar a eficiência na entrega de produtos. Com ele, é possível gerenciar pedidos, entregadores e clientes de forma fácil e intuitiva.
 
 ## Funcionalidades
 
