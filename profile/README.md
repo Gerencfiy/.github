@@ -6,15 +6,15 @@ O Gefy é um sistema de gestão de delivery voltado para pequenos empreendedores
 
 ## Funcionalidades
 
-- Cadastro de funcionários
-- Gerenciamento de informações pessoais e profissionais dos funcionários
-- Atribuição de tarefas e responsabilidades
-- Comunicação interna entre gestores e colaboradores
-- Controle de acesso e permissões
+- Cadastro de estabelecimentos, entregadores e clientes
+- Gerenciamento de pedidos e status de entrega
+- Rastreamento de entregas em tempo real
+- Geração de relatórios e estatísticas
+- Integração com serviços de pagamento online
 
 ## Como Utilizar
 
-Para utilizar o GEFY, basta acessar o site e criar uma conta. Após o cadastro, o usuário pode começar a gerir as informações de seus funcionários e utilizar todas as funcionalidades disponíveis.
+Para utilizar o GEFY, basta acessar o site e criar uma conta. Após o cadastro, o usuário pode começar a gerir as informações de sua empresa e utilizar todas as funcionalidades disponíveis.
 
 ## Contribuição
  
